@@ -120,8 +120,7 @@ php artisan serve
   <img src="https://img.shields.io/badge/Azure-Blob-blue?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Badge">
   <img src="https://img.shields.io/badge/Flysystem-v3-green?style=flat-square" alt="Flysystem Badge">
 </p>
-```
 
----
+
 
 
